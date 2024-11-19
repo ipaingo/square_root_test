@@ -42,7 +42,7 @@ jobs:
 
       - name: Run tests with pytest and check coverage
         run: |
-          coverage run -m unittest test_square_root/square_root_test.py
+          coverage run -m unittest square_root_testing/square_root_testing.py
           coverage report
 
       - name: Upload coverage to Coveralls
