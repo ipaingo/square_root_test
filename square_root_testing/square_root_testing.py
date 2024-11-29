@@ -61,7 +61,3 @@ class TestSqrtFunction(unittest.TestCase):
         result = get_square_roots(4, 8, 4)
         self.assertIsInstance(result, float)
         self.assertEqual(result, -1)
-
-
-if __name__ == "__main__":
-    unittest.main()

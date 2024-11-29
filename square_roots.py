@@ -27,9 +27,3 @@ def get_square_roots(a, b, c):
         return [(-b - sqrt_d) / (2 * a), (-b + sqrt_d) / (2 * a)]
 
 
-def main():
-    print(get_square_roots(3, 6, 0))
-
-
-if __name__ == "__main__":
-    main()
