@@ -5,4 +5,4 @@
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ipaingo_square_root_test&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ipaingo_square_root_test)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ipaingo_square_root_test&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ipaingo_square_root_test)
 # square_root_test
-Лабораторная работа №1. Тестирование функции вычисления корней квадратного уравнения.
+Лабораторная работа №1. Тестирование функции вычисления корней квадратного уравнения
